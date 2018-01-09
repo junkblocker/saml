@@ -15,9 +15,9 @@ import (
 
 	"crypto/rsa"
 
-	"github.com/crewjam/saml"
-	"github.com/crewjam/saml/logger"
 	"github.com/dgrijalva/jwt-go"
+	"github.com/junkblocker/saml"
+	"github.com/junkblocker/saml/logger"
 )
 
 // Hook up gocheck into the "go test" runner.
